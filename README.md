@@ -8,4 +8,5 @@ mobile devices. - Implement features such as image thumbnail navigation, full-si
 viewing, and any interactions specified in the designs.
 
 4.2 Coding Challenge 1: Array Manipulation
+
 4.3 Coding Challenge 2: String Transformation
