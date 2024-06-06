@@ -7,6 +7,10 @@ designs. - The gallery should be responsive and work seamlessly on both desktop 
 mobile devices. - Implement features such as image thumbnail navigation, full-size image
 viewing, and any interactions specified in the designs.
 
-4.2 Coding Challenge 1: Array Manipulation
+4.2 Coding Challenge:
 
-4.3 Coding Challenge 2: String Transformation
+    - Array Manipulation
+
+4.3 Coding Challenge:
+
+    - String Transformation
