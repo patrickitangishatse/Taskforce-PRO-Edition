@@ -17,3 +17,16 @@ Taskforce PRO Edition - Programming Challenge
 4.3 Coding Challenge:
 
       - String Transformation
+
+###################################
+How to run the UI challenge:
+git clone https://github.com/patrickitangishatse/Taskforce-PRO-Edition.git
+cd Taskforce-PRO-Edition
+open index.html
+
+###################################
+To run coding challenge:
+you're required to have javascript runtime environment
+after cloning,
+enter in Challenges directory
+run each file independently
